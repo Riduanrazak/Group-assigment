@@ -1,0 +1,23 @@
+body
+	{
+background: url(wow.jpg);
+
+}
+
+h1{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 60px;
+}
+
+p{
+	background-color: #F1C4F6;
+	font-family: 'Contrail One', cursive;
+	color: black;
+	border:solid;
+
+}
+
+h2 {
+	font-family: 'Bebas Neue', cursive;
+	font-size: 45px;
+}
